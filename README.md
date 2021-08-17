@@ -1,1 +1,1 @@
-mandatory file
+ only for this task mandatory file
